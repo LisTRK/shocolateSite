@@ -1,0 +1,14 @@
+/*Base styles*/
+@import url('./base.css');
+@import url('./reset.css');
+@import url('./container.css');
+/*Sections styles*/
+@import url('./header.css');
+@import url('./start-page.css');
+@import url('./benefits.css');
+@import url('./ingridients.css');
+@import url('h-i-w.css');
+@import url('products.css');
+@import url('top-sellers.css');
+@import url('./reviews.css');
+@import url('./footer.css');
